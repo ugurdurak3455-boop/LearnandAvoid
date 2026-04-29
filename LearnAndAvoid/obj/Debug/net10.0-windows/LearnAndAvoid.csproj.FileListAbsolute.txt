@@ -1,0 +1,17 @@
+C:\Users\ugur\OneDrive\Desktop\YAZILIM GENEL\LearnAndAvoid\LearnAndAvoid\LearnAndAvoid\bin\Debug\net10.0-windows\LearnAndAvoid.exe
+C:\Users\ugur\OneDrive\Desktop\YAZILIM GENEL\LearnAndAvoid\LearnAndAvoid\LearnAndAvoid\bin\Debug\net10.0-windows\LearnAndAvoid.deps.json
+C:\Users\ugur\OneDrive\Desktop\YAZILIM GENEL\LearnAndAvoid\LearnAndAvoid\LearnAndAvoid\bin\Debug\net10.0-windows\LearnAndAvoid.runtimeconfig.json
+C:\Users\ugur\OneDrive\Desktop\YAZILIM GENEL\LearnAndAvoid\LearnAndAvoid\LearnAndAvoid\bin\Debug\net10.0-windows\LearnAndAvoid.dll
+C:\Users\ugur\OneDrive\Desktop\YAZILIM GENEL\LearnAndAvoid\LearnAndAvoid\LearnAndAvoid\bin\Debug\net10.0-windows\LearnAndAvoid.pdb
+C:\Users\ugur\OneDrive\Desktop\YAZILIM GENEL\LearnAndAvoid\LearnAndAvoid\LearnAndAvoid\obj\Debug\net10.0-windows\LearnAndAvoid.csproj.GenerateResource.cache
+C:\Users\ugur\OneDrive\Desktop\YAZILIM GENEL\LearnAndAvoid\LearnAndAvoid\LearnAndAvoid\obj\Debug\net10.0-windows\LearnAndAvoid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugur\OneDrive\Desktop\YAZILIM GENEL\LearnAndAvoid\LearnAndAvoid\LearnAndAvoid\obj\Debug\net10.0-windows\LearnAndAvoid.AssemblyInfoInputs.cache
+C:\Users\ugur\OneDrive\Desktop\YAZILIM GENEL\LearnAndAvoid\LearnAndAvoid\LearnAndAvoid\obj\Debug\net10.0-windows\LearnAndAvoid.AssemblyInfo.cs
+C:\Users\ugur\OneDrive\Desktop\YAZILIM GENEL\LearnAndAvoid\LearnAndAvoid\LearnAndAvoid\obj\Debug\net10.0-windows\LearnAndAvoid.csproj.CoreCompileInputs.cache
+C:\Users\ugur\OneDrive\Desktop\YAZILIM GENEL\LearnAndAvoid\LearnAndAvoid\LearnAndAvoid\obj\Debug\net10.0-windows\LearnAndAvoid.sourcelink.json
+C:\Users\ugur\OneDrive\Desktop\YAZILIM GENEL\LearnAndAvoid\LearnAndAvoid\LearnAndAvoid\obj\Debug\net10.0-windows\LearnAndAvoid.dll
+C:\Users\ugur\OneDrive\Desktop\YAZILIM GENEL\LearnAndAvoid\LearnAndAvoid\LearnAndAvoid\obj\Debug\net10.0-windows\refint\LearnAndAvoid.dll
+C:\Users\ugur\OneDrive\Desktop\YAZILIM GENEL\LearnAndAvoid\LearnAndAvoid\LearnAndAvoid\obj\Debug\net10.0-windows\LearnAndAvoid.pdb
+C:\Users\ugur\OneDrive\Desktop\YAZILIM GENEL\LearnAndAvoid\LearnAndAvoid\LearnAndAvoid\obj\Debug\net10.0-windows\LearnAndAvoid.genruntimeconfig.cache
+C:\Users\ugur\OneDrive\Desktop\YAZILIM GENEL\LearnAndAvoid\LearnAndAvoid\LearnAndAvoid\obj\Debug\net10.0-windows\ref\LearnAndAvoid.dll
+C:\Users\ugur\OneDrive\Desktop\YAZILIM GENEL\LearnAndAvoid\LearnAndAvoid\LearnAndAvoid\obj\Debug\net10.0-windows\LearnAndAvoid.Views.Form1.resources
