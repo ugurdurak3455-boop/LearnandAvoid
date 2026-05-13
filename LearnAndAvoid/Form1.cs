@@ -40,5 +40,7 @@ public partial class Form1 : Form
             player.MoveLeft(10);
         if (e.KeyCode == Keys.Right)
             player.MoveRight(10);
+        this.Invalidate();
+
     }
 }
