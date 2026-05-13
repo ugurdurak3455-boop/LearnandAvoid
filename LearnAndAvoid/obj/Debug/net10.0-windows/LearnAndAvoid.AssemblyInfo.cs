@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LearnAndAvoid")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+300efd34ea351f6447c05f6af94d8928c189983c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19d5fb6a7e0972575f072b12af93afcfd8653ce0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LearnAndAvoid")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LearnAndAvoid")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
