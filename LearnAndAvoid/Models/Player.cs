@@ -7,8 +7,8 @@
         public int Y { get; set; }
 
 
-        public int Width = 60;
-        public int Height = 20;
+        public int Width = 150;
+        public int Height = 35;
 
 
         public Player(int startX, int startY)

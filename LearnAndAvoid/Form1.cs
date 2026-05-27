@@ -97,7 +97,8 @@ namespace LearnAndAvoid
             this.BackgroundImageLayout = ImageLayout.Stretch;
             this.DoubleBuffered = true;
 
-            player = new Player(420, 350);
+            int startingY = this.ClientSize.Height - 80;
+            player = new Player(420, startingY);
 
             // --- GÖRSEL CAN SİSTEMİ BAŞLANGIÇ AYARLARI ---
             lblHearts = new Label();
@@ -133,6 +134,7 @@ namespace LearnAndAvoid
             gameTimer.Start();
 
             this.KeyDown += OnKeyDown;
+            this.Resize += Form1_Resize;
         }
 
         private void GameLoop(object? sender, EventArgs e)
@@ -312,6 +314,17 @@ namespace LearnAndAvoid
                 player.MoveLeft(20);
             if (e.KeyCode == Keys.Right)
                 player.MoveRight(20, this.ClientSize.Width);
+     
+        }
+
+
+
+        private void Form1_Resize(object? sender, EventArgs e)
+        {
+            if (player != null)
+            {
+                player.Y = this.ClientSize.Height - 60;
+            }
         }
     }
 }
