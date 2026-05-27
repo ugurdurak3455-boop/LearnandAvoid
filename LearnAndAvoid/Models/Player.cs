@@ -27,14 +27,14 @@
         }
 
 
-        public void MoveRight(int amount)
+
+        public void MoveRight(int amount, int screenWidth)
         {
             X += amount;
-            if (X + Width > 900)
+
+            if (X + Width > screenWidth)
             {
-                X = 900 - Width;
-
-
+                X = screenWidth - Width;
             }
         }
     }
